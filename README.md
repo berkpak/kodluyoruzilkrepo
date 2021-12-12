@@ -8,7 +8,7 @@ Bu repo kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 Öncelikle projeyi clonelayın [link](https://github.com/berkpak/kodluyoruzilkrepo.git)
 
-##Usage
+## Usage
 
 Projeyi clonladıktan sonra Visual Studio Code programında açınız.
 
@@ -20,7 +20,7 @@ Linux için,
 
 ## Contributing
 
-Pull requestler kabul edilir. Büyül değişiklikler için, lütfen öce neyi değitrmek istediğinizi tartışmak için bir konu açınız.
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
